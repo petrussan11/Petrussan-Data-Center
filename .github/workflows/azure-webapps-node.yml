@@ -1,0 +1,590 @@
+#<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI-Enabled Digital Knowledge Hub</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#eef4fa;
+    color:#333;
+}
+
+header{
+    background:linear-gradient(135deg,#003366,#0066cc);
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+header h1{
+    margin:0;
+    font-size:42px;
+}
+
+header p{
+    font-size:18px;
+}
+
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+    padding:30px;
+}
+
+.card{
+    background:white;
+    border-radius:15px;
+    padding:25px;
+    margin-bottom:25px;
+    box-shadow:0px 6px 18px rgba(0,0,0,.12);
+}
+
+h2{
+    color:#003366;
+}
+
+ul{
+    line-height:1.9;
+}
+
+.feature-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:20px;
+}
+
+.feature{
+    background:#f7fbff;
+    border-left:6px solid #0077cc;
+    border-radius:10px;
+    padding:20px;
+}
+
+footer{
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>AI-Enabled Digital Knowledge Hub</h1>
+
+<p>Empowering Learning • Research • Innovation • Leadership</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>What is an AI-Enabled Digital Knowledge Hub?</h2>
+
+<p>
+An <strong>AI-enabled Digital Knowledge Hub</strong> is a centralized intelligent platform
+that integrates a Digital Library, Research Repository,
+Learning Management System, Institutional Archive and
+Artificial Intelligence (AI) into one ecosystem.
+</p>
+
+<p>
+It enables students, researchers, staff and decision makers
+to discover, understand, create and share knowledge
+through AI-powered services.
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>Core Components</h2>
+
+<div class="feature-grid">
+
+<div class="feature">
+<h3>📚 Digital Library</h3>
+<ul>
+<li>E-books</li>
+<li>Journals</li>
+<li>Newspapers</li>
+<li>Online Databases</li>
+<li>Multimedia Resources</li>
+</ul>
+</div>
+
+<div class="feature">
+<h3>🤖 AI Virtual Librarian</h3>
+<ul>
+<li>24/7 Assistance</li>
+<li>Book Recommendations</li>
+<li>Reference Support</li>
+<li>Voice Search</li>
+<li>Natural Language Questions</li>
+</ul>
+</div>
+
+<div class="feature">
+<h3>🔍 Smart Search</h3>
+<ul>
+<li>Semantic Search</li>
+<li>AI Discovery</li>
+<li>Document Ranking</li>
+<li>Knowledge Graph</li>
+</ul>
+</div>
+
+<div class="feature">
+<h3>📂 Repository</h3>
+<ul>
+<li>Research Papers</li>
+<li>Theses</li>
+<li>Policies</li>
+<li>Archives</li>
+<li>Government Publications</li>
+</ul>
+</div>
+
+<div class="feature">
+<h3>🎓 Learning Portal</h3>
+<ul>
+<li>Online Courses</li>
+<li>Training</li>
+<li>Certificates</li>
+<li>Assessments</li>
+</ul>
+</div>
+
+<div class="feature">
+<h3>📊 Analytics</h3>
+<ul>
+<li>Usage Reports</li>
+<li>Research Trends</li>
+<li>Learning Progress</li>
+<li>Decision Support</li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h2>AI Features</h2>
+
+<ul>
+<li>Intelligent Search</li>
+<li>AI Chat Assistant</li>
+<li>Automatic Cataloguing</li>
+<li>Document Summarization</li>
+<li>Translation Services</li>
+<li>Speech-to-Text</li>
+<li>Text-to-Speech</li>
+<li>Recommendation Engine</li>
+<li>Predictive Analytics</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Benefits</h2>
+
+<ul>
+<li>24/7 Access</li>
+<li>Faster Information Retrieval</li>
+<li>Improved Research</li>
+<li>Knowledge Preservation</li>
+<li>Reduced Administrative Work</li>
+<li>Better Decision Making</li>
+<li>Digital Transformation</li>
+<li>Enhanced Learning Experience</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Example for SILAG</h2>
+
+<ul>
+<li>AI Virtual Librarian</li>
+<li>Koha Library Management System</li>
+<li>Digital Repository</li>
+<li>Leadership Learning Portal</li>
+<li>PNG Governance Knowledge Base</li>
+<li>Government Policy Archive</li>
+<li>Research Repository</li>
+<li>Institutional Dashboard</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Vision</h2>
+
+<p>
+The AI-enabled Digital Knowledge Hub transforms a traditional
+library into a smart knowledge ecosystem where AI helps users
+discover, understand and apply information quickly. It becomes
+the centre of learning, research, innovation and collaboration,
+supporting education, governance and national development<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI-Enabled Digital Knowledge Hub</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#eef4fa;
+    color:#333;
+}
+
+header{
+    background:linear-gradient(135deg,#003366,#0066cc);
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+header h1{
+    margin:0;
+    font-size:42px;
+}
+
+header p{
+    font-size:18px;
+}
+
+.container{
+    width:90%;
+    max-width:1200px;
+    margin:auto;
+    padding:30px;
+}
+
+.card{
+    background:white;
+    border-radius:15px;
+    padding:25px;
+    margin-bottom:25px;
+    box-shadow:0px 6px 18px rgba(0,0,0,.12);
+}
+
+h2{
+    color:#003366;
+}
+
+ul{
+    line-height:1.9;
+}
+
+.feature-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:20px;
+}
+
+.feature{
+    background:#f7fbff;
+    border-left:6px solid #0077cc;
+    border-radius:10px;
+    padding:20px;
+}
+
+footer{
+    background:#003366;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>AI-Enabled Digital Knowledge Hub</h1>
+
+<p>Empowering Learning • Research • Innovation • Leadership</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>What is an AI-Enabled Digital Knowledge Hub?</h2>
+
+<p>
+An <strong>AI-enabled Digital Knowledge Hub</strong> is a centralized intelligent platform
+that integrates a Digital Library, Research Repository,
+Learning Management System, Institutional Archive and
+Artificial Intelligence (AI) into one ecosystem.
+</p>
+
+<p>
+It enables students, researchers, staff and decision makers
+to discover, understand, create and share knowledge
+through AI-powered services.
+</p>
+
+</div>
+
+<div class="card">
+
+<h2>Core Components</h2>
+
+<div class="feature-grid">
+
+<div class="feature">
+<h3>📚 Digital Library</h3>
+<ul>
+<li>E-books</li>
+<li>Journals</li>
+<li>Newspapers</li>
+<li>Online Databases</li>
+<li>Multimedia Resources</li>
+</ul>
+</div>
+
+<div class="feature">
+<h3>🤖 AI Virtual Librarian</h3>
+<ul>
+<li>24/7 Assistance</li>
+<li>Book Recommendations</li>
+<li>Reference Support</li>
+<li>Voice Search</li>
+<li>Natural Language Questions</li>
+</ul>
+</div>
+
+<div class="feature">
+<h3>🔍 Smart Search</h3>
+<ul>
+<li>Semantic Search</li>
+<li>AI Discovery</li>
+<li>Document Ranking</li>
+<li>Knowledge Graph</li>
+</ul>
+</div>
+
+<div class="feature">
+<h3>📂 Repository</h3>
+<ul>
+<li>Research Papers</li>
+<li>Theses</li>
+<li>Policies</li>
+<li>Archives</li>
+<li>Government Publications</li>
+</ul>
+</div>
+
+<div class="feature">
+<h3>🎓 Learning Portal</h3>
+<ul>
+<li>Online Courses</li>
+<li>Training</li>
+<li>Certificates</li>
+<li>Assessments</li>
+</ul>
+</div>
+
+<div class="feature">
+<h3>📊 Analytics</h3>
+<ul>
+<li>Usage Reports</li>
+<li>Research Trends</li>
+<li>Learning Progress</li>
+<li>Decision Support</li>
+</ul>
+</div>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<h2>AI Features</h2>
+
+<ul>
+<li>Intelligent Search</li>
+<li>AI Chat Assistant</li>
+<li>Automatic Cataloguing</li>
+<li>Document Summarization</li>
+<li>Translation Services</li>
+<li>Speech-to-Text</li>
+<li>Text-to-Speech</li>
+<li>Recommendation Engine</li>
+<li>Predictive Analytics</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Benefits</h2>
+
+<ul>
+<li>24/7 Access</li>
+<li>Faster Information Retrieval</li>
+<li>Improved Research</li>
+<li>Knowledge Preservation</li>
+<li>Reduced Administrative Work</li>
+<li>Better Decision Making</li>
+<li>Digital Transformation</li>
+<li>Enhanced Learning Experience</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Example for SILAG</h2>
+
+<ul>
+<li>AI Virtual Librarian</li>
+<li>Koha Library Management System</li>
+<li>Digital Repository</li>
+<li>Leadership Learning Portal</li>
+<li>PNG Governance Knowledge Base</li>
+<li>Government Policy Archive</li>
+<li>Research Repository</li>
+<li>Institutional Dashboard</li>
+</ul>
+
+</div>
+
+<div class="card">
+
+<h2>Vision</h2>
+
+<p>
+The AI-enabled Digital Knowledge Hub transforms a traditional
+library into a smart knowledge ecosystem where AI helps users
+discover, understand and apply information quickly. It becomes
+the centre of learning, research, innovation and collaboration,
+supporting education, governance and national development.
+</p>
+
+</div>
+
+</div>
+
+<footer>
+
+<h3>AI-Enabled Digital Knowledge Hub</h3>
+
+<p>Building Smarter Libraries for Papua New Guinea</p>
+
+</footer>
+
+</body>
+</html>
+</p>
+
+</div>
+
+</div>
+
+<footer>
+
+<h3>AI-Enabled Digital Knowledge Hub</h3>
+
+<p>Building Smarter Libraries for Papua New Guinea</p>
+
+</footer>
+
+</body>
+</html> This workflow will build and push a node.js application to an Azure Web App when a commit is pushed to your default branch.
+#
+# This workflow assumes you have already created the target Azure App Service web app.
+# For instructions see https://docs.microsoft.com/en-us/azure/app-service/quickstart-nodejs?tabs=linux&pivots=development-environment-cli
+#
+# To configure this workflow:
+#
+# 1. Download the Publish Profile for your Azure Web App. You can download this file from the Overview page of your Web App in the Azure Portal.
+#    For more information: https://docs.microsoft.com/en-us/azure/app-service/deploy-github-actions?tabs=applevel#generate-deployment-credentials
+#
+# 2. Create a secret in your repository named AZURE_WEBAPP_PUBLISH_PROFILE, paste the publish profile contents as the value of the secret.
+#    For instructions on obtaining the publish profile see: https://docs.microsoft.com/azure/app-service/deploy-github-actions#configure-the-github-secret
+#
+# 3. Change the value for the AZURE_WEBAPP_NAME. Optionally, change the AZURE_WEBAPP_PACKAGE_PATH and NODE_VERSION environment variables below.
+#
+# For more information on GitHub Actions for Azure: https://github.com/Azure/Actions
+# For more information on the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
+# For more samples to get started with GitHub Action workflows to deploy to Azure: https://github.com/Azure/actions-workflow-samples
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+env:
+  AZURE_WEBAPP_NAME: your-app-name    # set this to your application's name
+  AZURE_WEBAPP_PACKAGE_PATH: '.'      # set this to the path to your web app project, defaults to the repository root
+  NODE_VERSION: '20.x'                # set this to the node version to use
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ env.NODE_VERSION }}
+        cache: 'npm'
+
+    - name: npm install, build, and test
+      run: |
+        npm install
+        npm run build --if-present
+        npm run test --if-present
+
+    - name: Upload artifact for deployment job
+      uses: actions/upload-artifact@v4
+      with:
+        name: node-app
+        path: .
+
+  deploy:
+    permissions:
+      contents: none
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: 'Development'
+      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+
+    steps:
+    - name: Download artifact from build job
+      uses: actions/download-artifact@v4
+      with:
+        name: node-app
+
+    - name: 'Deploy to Azure WebApp'
+      id: deploy-to-webapp
+      uses: azure/webapps-deploy@v2
+      with:
+        app-name: ${{ env.AZURE_WEBAPP_NAME }}
+        publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+        package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
